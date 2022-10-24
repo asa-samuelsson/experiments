@@ -8,7 +8,7 @@ if (document.readyState === "complete") {
 
 function runExpCode() {
   
-  console.log("script from github loaded");
+  console.log("updated script from github loaded");
   
   
   //*** Adding new CSS ***//
