@@ -8,7 +8,7 @@ if (document.readyState === "complete") {
 
 function runExpCode() {
   
-  console.log("script from github");
+  console.log("åsa's script from github");
   
   
   //*** Adding new CSS ***//
